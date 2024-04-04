@@ -16,7 +16,7 @@
     "@tensorflow-models/mobilenet": "^2.0.4",
     "@tensorflow/tfjs": "^1.7.2",
     "@tensorflow/tfjs-react-native": "^0.2.3",
-    "expo": "~36.0.0",
+    "expo": "~50.0.0",
     "expo-camera": "^8.0.0",
     "expo-constants": "~8.0.0",
     "expo-gl": "^8.0.0",
